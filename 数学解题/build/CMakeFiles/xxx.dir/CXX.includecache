@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xxx/Me/刷题C++/数学解题/Count_Primes.cc
+algorithm
+-
+cmath
+-
+iostream
+-
+vector
+-
+
