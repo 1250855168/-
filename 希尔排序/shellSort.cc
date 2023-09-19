@@ -15,8 +15,6 @@ char *sumStr(const char *str1, const char *str2)
 void shellSort(std::vector<int> &v)
 {
 
-    printf("%d %c\n", '\0', '\0');
-
     int size = v.size();
     int gap = 0;
     int i;

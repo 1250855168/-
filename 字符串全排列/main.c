@@ -44,6 +44,7 @@ void test(char *str, int a, int b)
 
 int main()
 {
+    int n=5,a[n][n];
     // union A a1;
     // a1.x[0] = 10;
     // a1.x[1] = 1;
