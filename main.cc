@@ -21,7 +21,6 @@ auto result= find_if(m.begin(),m.end(),[temp](const pair<int, int>p){
     return p.second>temp;
   });
 
-  
 
       return 0;
 }
